@@ -1,0 +1,48 @@
+,name,city,state,country,latitude,longitude,capacity
+0,New Era Field,Orchard Park,NY,USA,42.773758,-78.786837,73079
+1,Hard Rock Stadium,Miami Gardens,FL,USA,25.957740,-80.238781,76100
+2,MetLife Stadium,East Rutherford,NJ,USA,40.813611,-74.074444,82500
+3,Gillette Stadium,Foxborough,MA,USA,42.090866,-71.264244,68756
+4,Paul Brown Stadium,Cincinnati,OH,USA,39.095309,-84.516003,65535
+5,FirstEnergy Stadium,Cleveland,OH,USA,41.505885,-81.699458,71516
+6,M&T Bank Stadium,Baltimore,MD,USA,39.277985,-76.622788,71008
+7,Heinz Field,Pittsburgh,PA,USA,40.446751,-80.015707,65050
+8,Lucas Oil Stadium,Indianapolis,IN,USA,39.760056,-86.163806,67000
+9,TIAA Bank Field,Jacksonville,FL,USA,30.323813,-81.637199,67246
+10,NRG Stadium,Houston,TX,USA,29.684722,-95.410707,71054
+11,Nissan Stadium,Nashville,TN,USA,36.166441,-86.771253,6914
+12,Broncos Stadium at Mile High,Denver,CO,USA,39.743936,-105.020097,76125
+13,Qualcomm Stadium,San Diego,CA,USA,32.783188,-117.119439,70561
+14,Arrowhead Stadium,Kansas City,MO,USA,39.049002,-94.483864,76416
+15,Oakland Coliseum,Oakland,CA,USA,37.751613,-122.200509,53200
+16,AT&T Stadium,Arlington,TX,USA,32.747778,-97.092778,80000
+17,Lincoln Financial Field,Philadelphia,PA,USA,39.900771,-75.167469,68532
+18,FedEx Field,Landover,MD,USA,38.907652,-76.864479,85000
+19,Soldier Field,Chicago,IL,USA,41.862320,-87.616699,61500
+20,Ford Field,Detroit,MI,USA,42.340021,-83.045777,65000
+21,Lambeau Field,Green Bay,WI,USA,44.501389,-88.061944,80750
+22,Mall of America Field,Minneapolis,MN,US,44.976000,-93.225000,64111
+23,Raymond James Stadium,Tampa Bay,FL,USA,27.975967,-82.503350,65890
+24,Georgia Dome,Atlanta,GA,USA,33.757614,-84.400972,74228
+25,Bank of America Stadium,Charlotte,NC,USA,35.225808,-80.852861,73778
+26,Mercedes-Benz Superdome,New Orleans,LA,USA,29.950931,-90.081364,73208
+27,Candlestick Park,San Francisco,CA,US,37.404108,-121.970274,70207
+28,U of Phoenix Stadium,Glendale,AZ,USA,33.527558,-112.263036,63400
+29,Edward Jones Dome,St. Louis,MO,USA,38.632975,-90.188547,66000
+30,CenturyLink Field,Seattle,WA,USA,47.595153,-122.331625,67000
+31,Wembley Stadium,London,,UK,51.555833,-0.279722,86000
+32,Rogers Centre,Toronto,,CA,43.641590,-79.390028,86000
+33,Fawcett Stadium,Canton,OH,USA,40.819822,-81.398177,22375
+34,TCF Bank Stadium,Minneapolis,MN,USA,44.976000,-93.225000,50805
+35,Levi's Stadium,Santa Clara,CA,USA,37.404108,-121.970274,68500
+36,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,34.014167,-118.287778,93607
+37,Camping World Stadium,Orlando,FL,USA,25.958056,-80.238889,65000
+38,Twickenham Stadium,London,,UK,51.455936,-0.341516,82000
+39,Estadio Azteca,Mexico City,,MEX,19.302861,-99.150528,87000
+40,U.S. Bank Stadium,Minneapolis,MN,USA,44.974288,-93.329728,66655
+41,StubHub Center,Carson,CA,USA,33.858663,-118.256666,27000
+42,Mercedes-Benz Stadium,Atlanta,GA,USA,33.755000,-84.401000,71000
+43,Tom Benson Hall of Fame Stadium,Canton,OH,USA,40.819880,-81.398010,
+44,Tottenham Stadium,London,,UK,51.604444,-0.066389,62062
+45,Aloha Stadium,Honolulu,HI,USA,21.372647,-157.929821,50000
+46,Investors Group Field,Winnipeg,,CA,49.807778,-97.143056,33134
