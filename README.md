@@ -15,9 +15,9 @@ The NFL has been investigating new markets to expand into, location is extremely
 * **Topic Modelling** - Grouped cities based on common topics they tweeted about, picking three major categories Betting, Watching and High Spirits(get that ?)
 
 ## RESULTS
-* London is the most attractive market based on passion and market size - the NFL should target this location for its next team location
-* Jacksonville is the least attractive market of any location with a team and could be a candidate for moving to London (interestingly Jacksonville has played in London each year from 2013 and treats these games as ‘home’ matches) 
-* Toronto is the second most attractive market based on passion and market size - the NFL should begin to hold games in Toronto to prepare it for further possible expansion
+* **London is the most attractive market** based on passion and market size - the NFL should target this location for its next team location
+* **Jacksonville is the least attractive market** of any location with a team and could be a candidate for moving to London (interestingly Jacksonville has played in London each year from 2013 and treats these games as ‘home’ matches) 
+* **Toronto is the second most attractive market** based on passion and market size - the NFL should begin to hold games in Toronto to prepare it for further possible expansion
 
 ## LEARNINGS
 * User Generated Content has immense applications
